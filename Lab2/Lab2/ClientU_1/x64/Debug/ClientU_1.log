@@ -1,0 +1,5 @@
+﻿  ClientU_1.cpp
+D:\univ\6 sem\distribSys\Lab2\Lab2\ClientU_1\ClientU_1.cpp(223,6): warning C4101: ibuf: неиспользованная локальная переменная
+D:\univ\6 sem\distribSys\Lab2\Lab2\ClientU_1\ClientU_1.cpp(267,6): warning C4101: ibuf: неиспользованная локальная переменная
+D:\univ\6 sem\distribSys\Lab2\Lab2\ClientU_1\ClientU_1.cpp(311,6): warning C4101: ibuf: неиспользованная локальная переменная
+  ClientU_1.vcxproj -> D:\univ\6 sem\distribSys\Lab2\Lab2\x64\Debug\ClientU_1.exe

@@ -1,0 +1,4 @@
+ORACLE_SID=ORCL
+ORACLE_PWD=Admin1234
+ORACLE_EDITION=enterprise
+DISPLAY=host.docker.internal:0.0

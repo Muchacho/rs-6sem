@@ -1,0 +1,5 @@
+﻿  NTP protocol-client.cpp
+D:\projects\BSTU\6\rs\Lab1\UDP-server\NTP protocol-client\NTP protocol-client.cpp(85,24): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\projects\BSTU\6\rs\Lab1\UDP-server\NTP protocol-client\NTP protocol-client.cpp(86,24): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\projects\BSTU\6\rs\Lab1\UDP-server\NTP protocol-client\NTP protocol-client.cpp(55,39): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  NTP protocol-client.vcxproj -> D:\projects\BSTU\6\rs\Lab1\UDP-server\Debug\NTP protocol-client.exe

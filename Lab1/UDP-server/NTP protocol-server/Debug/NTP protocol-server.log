@@ -1,0 +1,5 @@
+﻿  NTP protocol-server.cpp
+D:\projects\BSTU\6\rs\Lab1\UDP-server\NTP protocol-server\NTP protocol-server.cpp(52,24): warning C4307: "*": переполнение целой константы со знаком
+D:\projects\BSTU\6\rs\Lab1\UDP-server\NTP protocol-server\NTP protocol-server.cpp(73,21): warning C4309: =: усечение константного значения
+D:\projects\BSTU\6\rs\Lab1\UDP-server\NTP protocol-server\NTP protocol-server.cpp(60,27): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  NTP protocol-server.vcxproj -> D:\projects\BSTU\6\rs\Lab1\UDP-server\Debug\NTP protocol-server.exe

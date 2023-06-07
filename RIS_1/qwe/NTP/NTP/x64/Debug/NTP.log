@@ -1,0 +1,7 @@
+﻿  NTP.cpp
+D:\projects\BSTU\6\rs\RIS_1\qwe\NTP\NTP\NTP.cpp(47,18): warning C4307: "*": переполнение целой константы со знаком
+D:\projects\BSTU\6\rs\RIS_1\qwe\NTP\NTP\NTP.cpp(64,20): warning C4309: =: усечение константного значения
+D:\projects\BSTU\6\rs\RIS_1\qwe\NTP\NTP\NTP.cpp(85,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\projects\BSTU\6\rs\RIS_1\qwe\NTP\NTP\NTP.cpp(126,24): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\projects\BSTU\6\rs\RIS_1\qwe\NTP\NTP\NTP.cpp(126,24): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  NTP.vcxproj -> D:\projects\BSTU\6\rs\RIS_1\qwe\NTP\x64\Debug\NTP.exe

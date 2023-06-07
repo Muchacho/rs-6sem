@@ -1,0 +1,9 @@
+﻿  NTP.cpp
+D:\projects\BSTU\6\rs\RIS_1\NTP\NTP\NTP.cpp(4,1): warning C4005: _WINSOCK_DEPRECATED_NO_WARNINGS: изменение макроопределения
+D:\projects\BSTU\6\rs\RIS_1\NTP\NTP\pch.cpp : message : см. предыдущее определение "_WINSOCK_DEPRECATED_NO_WARNINGS"
+D:\projects\BSTU\6\rs\RIS_1\NTP\NTP\NTP.cpp(46,18): warning C4307: "*": переполнение целой константы со знаком
+D:\projects\BSTU\6\rs\RIS_1\NTP\NTP\NTP.cpp(65,20): warning C4309: =: усечение константного значения
+D:\projects\BSTU\6\rs\RIS_1\NTP\NTP\NTP.cpp(86,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\projects\BSTU\6\rs\RIS_1\NTP\NTP\NTP.cpp(127,24): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\projects\BSTU\6\rs\RIS_1\NTP\NTP\NTP.cpp(127,24): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  NTP.vcxproj -> D:\projects\BSTU\6\rs\RIS_1\ClientU\Debug\NTP.exe

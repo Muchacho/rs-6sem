@@ -1,0 +1,6 @@
+﻿  Client2.cpp
+D:\projects\BSTU\6\rs\ЛР №2\Client2\Client2.cpp(134,7): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\projects\BSTU\6\rs\ЛР №2\Client2\Client2.cpp(157,8): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\projects\BSTU\6\rs\ЛР №2\Client2\Client2.cpp(172,6): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\projects\BSTU\6\rs\ЛР №2\Client2\Client2.cpp(127,7): warning C4101: count: неиспользованная локальная переменная
+  Client2.vcxproj -> D:\projects\BSTU\6\rs\ЛР №2\x64\Debug\Client2.exe
